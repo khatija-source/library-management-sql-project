@@ -20,3 +20,4 @@ This project demonstrates fundamental database concepts such as table creation, 
 # Tools Used
 - SQLite
 - DB Browser for SQLite
+
